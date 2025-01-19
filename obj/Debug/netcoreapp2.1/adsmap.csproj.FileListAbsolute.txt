@@ -1,0 +1,5 @@
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.1\adsmap.csprojAssemblyReference.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.1\adsmap.RazorAssemblyInfo.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.1\adsmap.RazorAssemblyInfo.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.1\adsmap.AssemblyInfoInputs.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.1\adsmap.AssemblyInfo.cs

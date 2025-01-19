@@ -1,0 +1,3 @@
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp3.1\adsmap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp3.1\adsmap.AssemblyInfoInputs.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp3.1\adsmap.AssemblyInfo.cs

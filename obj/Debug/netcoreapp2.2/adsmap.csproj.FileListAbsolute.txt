@@ -1,0 +1,103 @@
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.deps.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.dev.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.dll
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfoInputs.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfo.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.input.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.output.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorCoreGenerate.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cache
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.csproj.CopyComplete
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\adsmap.csprojAssemblyReference.cache
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\ABUBA\source\repos\adsmap\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Map\Index.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABUBA\source\repos\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.deps.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.dev.json
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.dll
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfoInputs.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfo.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.input.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.output.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorCoreGenerate.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Map\Index.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cache
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cs
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\OneDrive\Documents\Visual Studio 2019\adsmap\obj\Debug\netcoreapp2.2\adsmap.csproj.CopyComplete
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.deps.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.runtimeconfig.dev.json
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.dll
+C:\Users\ABUBA\Downloads\adsmap\bin\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.csprojAssemblyReference.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.csproj.CoreCompileInputs.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorAssemblyInfo.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfoInputs.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.AssemblyInfo.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.input.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.TagHelpers.output.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorCoreGenerate.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Map\Index.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.RazorTargetAssemblyInfo.cs
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.Views.pdb
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.dll
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.pdb
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.genruntimeconfig.cache
+C:\Users\ABUBA\Downloads\adsmap\obj\Debug\netcoreapp2.2\adsmap.csproj.CopyComplete
